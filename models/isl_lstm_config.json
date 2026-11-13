@@ -1,0 +1,28 @@
+{
+  "classes": [
+    "alright",
+    "animal",
+    "bird",
+    "cat",
+    "cow",
+    "dog",
+    "fish",
+    "good afternoon",
+    "good evening",
+    "good morning",
+    "good night",
+    "hello",
+    "horse",
+    "how are you",
+    "mouse",
+    "pleased",
+    "thank you"
+  ],
+  "T": 30,
+  "features": "compact",
+  "n_features": 201,
+  "window_sec": 3.0,
+  "extract_fps": 25,
+  "test_accuracy": 0.9444,
+  "test_macro_f1": 0.9336
+}

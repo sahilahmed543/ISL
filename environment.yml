@@ -1,0 +1,17 @@
+name: isl-prep
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy<2
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - scipy
+  - jupyterlab
+  - ipykernel
+  - pip
+  - pip:
+      - mediapipe==0.10.14
+      - opencv-python
